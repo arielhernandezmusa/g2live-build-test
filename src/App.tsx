@@ -26,7 +26,7 @@ function App() {
           className="counter"
           onClick={() => setCount((count) => count + 1)}
         >
-          The Count is {count}
+          The Max Count is {count}
         </button>
       </section>
 
